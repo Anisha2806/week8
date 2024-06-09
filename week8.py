@@ -35,6 +35,7 @@ iris_dataset = {
 }
 
 # Streamlit code to display the dataset
+st.write("22AIA-MACHINE MASTERS")
 st.title("Sample of the Iris dataset")
 
 for i in range(5):
